@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+joblib
+matplotlib
+seaborn
+scikit-learn
+speechrecognition
+pyttsx3
+pyaudio
+flask
+mysql-connector-python
